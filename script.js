@@ -36,3 +36,6 @@ document.querySelector('.check').addEventListener('click', () => {
 document.querySelector('.again').addEventListener('click', () => {
     location.reload();
 })
+
+
+console.log(hi)
